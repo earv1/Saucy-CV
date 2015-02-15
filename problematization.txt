@@ -1,0 +1,33 @@
+Problems with CVs
+People have thousands of them to read through:
+Therefore
+    Grab the attention of the person reading it.
+
+    Present it in such a way that they can easily find the information that they are looking for.
+        -Organize by topics
+        -Provide additional information if a topic is selected e.g under communication you can write these are my weakness these are my strengths.
+        %Feature
+          Use tags to specify under what topic a line in the cv should go under. Otherwise it stays in the regular cv.
+
+Once a potential candidate is found lots of interviews need to be conducted. Sometimes employers may ask questions to further narrow this down.
+Therefore
+    -A CV which allows easy back and forth communication is ideal. Ideally, clarification will need to be made and this will reflect all future versions of the cv.
+     There may also come a time when they need specific details not usually needed. These can be displayed an filtered by hash tags once some one asks a question.
+     It will be up to the CV owner to organise these when necessary(a count of times requested will also be available which will be incremented each time it is retagged or
+     when the importance label is voted on by a user of the system.
+
+A role may not be clearly communicated in a CV
+Therefore
+    -Allow cvs to be tagged with roles e.g. consultant, project manager etc.
+    -Allow cv to also be tagged by skills used in roles.
+
+People can lie on their CVS
+Therefore
+    -Allow qualifications to be posted. Endorsements don't work like on linkedin because people can lie and it becomes very political.
+    -Allow likes since that is essentially what endorsements have become. People obtain likes when people enjoy working with them.
+    -Endorsements should be permitted from third party training facilities along with regular endorsements. This should help mitigate lying
+    and make endorsements more valuable.
+
+Such a system has limitations depending on the size of its userbase
+Therefore
+    -Allow facebook google and if possible linkedin login.

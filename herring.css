@@ -1,0 +1,46 @@
+html
+{
+
+	height:100%;
+}
+body
+{
+		margin: 0;
+		height:100%;
+	background:
+	url("swirl_pattern.png") repeat scroll 0% 0% transparent	;
+}
+div.background
+{
+	z-index: -1;
+	position:relative;
+	height:100%;
+	width:100%;
+
+
+	/*background:url(FishySmall_nobackground.png);*/
+
+	/*background-size: 20%;*/
+  	/*opacity:0.5;*/
+  	/*background-color: #FFD5D5;*/
+
+}
+div.content
+{
+	background: url("crossword.png") repeat scroll 0% 0% transparent;
+	margin-left:auto;
+	margin-right:auto;
+	opacity:0.9;
+	height:1200px;
+	width:800px;
+	background-color:white;
+
+}
+
+div.main-content
+{
+	/*background-color:red;*/
+
+	padding-left:0.5em;
+	padding-right:0.5em;
+}

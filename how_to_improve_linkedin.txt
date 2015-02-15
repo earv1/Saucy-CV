@@ -1,0 +1,34 @@
+News Feed is quite busy. This is for revenue though, is there something that can be done here?
+
+Profile:
+There is a lot of space wasted by the sidebar. These things need to be moved somewhere.
+
+Make endorsing less obnoxious yet still visible.
+
+Group certifications by company or expertise. Make logos less obnoxious.
+
+Experimental feature of grouping a candidate by skills.
+
+
+Don't display everything at once. Use expandable containers instead. So for background make people
+give a summary that fits within a certain amount of characters.
+
+Connections could be better. Text and image should be in a box. Last word of each sentence should line up against the end of it.
+Have ways to categorize connections based on the way that they have interacted with the profile. This should be possible but is
+probably quite hard to implement in a good way.
+
+Not Everything needs to be separated. Groups and following could be in the same box.
+
+I feel like a fade in effect for extra details like groups and things you are following would help with it all feeling clumped together.
+
+Use people similar and people viewed in one block next to profile pic and info. Call it recommended people and give it a little arrow
+underneath it to allow people to look for more people.
+
+It feels unnatural to have a profile info underneath anything. Skills or expertise should be underneath it.
+
+Fonts could be better, try helvetica? Also use some tricks like firefox has a thing
+that makes fonts clearer when selected.
+
+Categories should not be movable. Recruiters should decide on what they want to see first.
+
+Plugins for certain categories? Publications could be auto updated based on their popularity.

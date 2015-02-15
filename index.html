@@ -1,0 +1,103 @@
+<!-- http://careers.stackoverflow.com/cv/get-one -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Saucy CV</title>
+  <meta charset="UTF-8">
+  <!-- <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/pure-min.css"> -->
+  <link rel="stylesheet" href="./herring.css">
+  <link rel="stylesheet" href ="saucy-cv.css">
+
+  <script src="./javascript/lib/jquery-1.11.1.js"></script>
+
+  <script src="./javascript/jquery_extensions.js"></script>
+  <script src="./javascript/data_structures/saucy-cv-entry.js"></script>
+
+  <script src="./javascript/start.js"></script>
+  <script src="./javascript/reorganize.js"></script>
+
+
+</head>
+<body>
+  <div class="content">
+    <div class = 'menu'></menu>
+    <div class = 'title-dark-container'>
+      <div class = 'title'>emmanuel   arvanitis
+                          <br/>cv<br/>
+      </div>
+    </div>
+
+
+    <div id = 'main-content' class ='main-content'>
+      <p>For a pdf version of my CV, please click <a href = './EmmanuelArvanitisCV.pdf'>here</a>
+       <!-- <p>While most people look at coding as something that you must never mix. I prefer to look at coding in terms of making a delicious sandwich.</p> -->
+       <br/>
+       <div class = 'category-container' id = 'button-container'>
+        <!-- <button class = 'simple-button' onclick ='reorganize("#Communication")'>Communication</button>
+        <button class = 'simple-button' onclick ='reorganize("#Consulting")'>Consulting</button>
+        <button class = 'simple-button' onclick ='reorganize("#Organizational")'>Organizational</button>
+        <button class = 'simple-button' onclick ='reorganize("#Architecture")'>Architecture</button> -->
+        <br/>
+      </div>
+
+      <saucy-cv-header id = 'cv-main-content'>
+        <div id ='cv-container' class = 'container'>
+          <saucy-cv-header style = 'text-align:center;'> Click Buttons Above for Relevant Sections </saucy-cv-header>
+        </div>
+          <br/><br/>
+
+          <saucy-cv-header class = "header"> Consultant and Developer </saucy-cv-header><br/>
+          <saucy-cv-entry saucy-tags ="#Communication; #Consulting; #Organizational; $Consultant" saucy-time = '2 weeks'>
+              <div class = 'saucy-details-column'>
+
+                  I have been placed in various roles such as consultant, developer and architect.
+                  I also had minor roles as a systems designer and tech support.
+                  I am experienced with technology such as Java, Oracle Database 11g including PLSQL and Java integration,
+                  JavaScript and PHP. My clients were REDISA and Kusaga Taka and I worked in a high pressure environment with small time constraints.
+              </div>
+              <div class = 'saucy-time-column'>
+                2 weeks
+              </div>
+            </table>
+
+          </saucy-cv-entry><br/>
+
+
+          <saucy-cv-header> Detailed Achievements </saucy-cv-header><br/>
+          <saucy-cv-sub-section>
+            <saucy-cv-header2>Cool Framework </saucy-cv-header2><br/>
+            <saucy-cv-entry saucy-tags ="#Programming; #Architecture; #Consulting; $Consultant">
+              Implemented a barebones framework in PHP to easily allow administrative addons that fit within our chosen architecture.
+            </saucy-cv-entry>
+            <!-- <div class = 'saucy-details-column'>
+            <saucy-cv-entry saucy-tags ="#Programming; #Architecture; #Consulting; $Consultant">
+              Implemented a barebones framework in PHP to easily allow administrative addons that fit within our chosen architecture.
+            </saucy-cv-entry><br/>
+            </div>
+            <div class = 'saucy-time-column'>
+              2 weeks
+            </div> -->
+          </saucy-cv-sub-section>
+
+          <saucy-cv-entry saucy-tags ="#Communication; #Consulting; #Organizational; $Consultant">
+            Created an ajax frontend using barebones javascript in order to interface with our new SOA based solution.
+
+          </saucy-cv-entry>
+
+          <saucy-cv-entry saucy-tags ="#Communication; #Consulting; $Consultant; $Analyst">
+            Performed the function of a Systems Analyst by communicating with client and deriving specifications.
+          </saucy-cv-entry><br/>
+
+          <saucy-cv-entry saucy-tags ="#Communication; #Consulting; $Consultant; $Analyst">
+            Designed parts of the database.
+          </saucy-cv-entry><br/>
+
+      </saucy-cv-header>
+    </div>
+
+	</div>
+
+
+
+</body>
+</html>
